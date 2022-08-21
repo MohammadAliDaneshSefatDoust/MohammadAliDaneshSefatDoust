@@ -1,4 +1,4 @@
-                                                              ### 👋Hi!Nice to see you 
+                                                              Hi!Nice to see you 
 ### 👋I'M Mohammadali! A passionate Researcher   
 This is my Github page
 
