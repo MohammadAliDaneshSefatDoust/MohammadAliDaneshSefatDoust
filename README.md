@@ -5,5 +5,5 @@ This is my Github page
 
 💻I am interested in the development of artificial intelligence in the field of electronic engineering and medicine
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAliDaneshSefatDoust&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAliDaneshSefatDoust&show_icons=true&theme=highcontrast)
 
