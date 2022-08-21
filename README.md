@@ -5,13 +5,12 @@ This is my Github page
 
 🎓I'm currently is a MS.c student at the Department of electronic engineering at Amirkabir University of Technology (Tehran polytechnic).
 
+💻I am interested in the development of artificial intelligence in the field of electronic engineering and medicine, digital circuits, image processing, medical implant design.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,r,qt,py,octave,powershell,ps,linux,git,cpp" />
   </a>
 </p>
-
-💻I am interested in the development of artificial intelligence in the field of electronic engineering and medicine, digital circuits, image processing, medical implant design.
 
 📧How to reach me: amdaneshsefatdoust@gmail.com
 
