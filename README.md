@@ -18,4 +18,3 @@ This is my Github page
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliDaneshSefatDoust&layout=compact)](https://github.com/MohammadAliDaneshSefatDoust/github-readme-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MohammadAliDaneshSefatDoust/langs)](https://githubtrends.io)
