@@ -9,7 +9,7 @@ This is my Github page
 💻I am interested in the development of artificial intelligence in the field of electronic engineering and medicine, digital circuits, image processing, medical implant design.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,r,qt,py,octave,powershell,ps,linux,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,r,qt,py,octave,powershell,ps,linux,git,cpp,c" />
   </a>
 </p>
 
