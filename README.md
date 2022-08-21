@@ -17,5 +17,5 @@ This is my Github page
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAliDaneshSefatDoust&show_icons=true&theme=tokyonight) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadAliDaneshSefatDoust&theme=dark)](https://git.io/streak-stats)
 
-                                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliDaneshSefatDoust&layout=compact)](https://github.com/MohammadAliDaneshSefatDoust/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliDaneshSefatDoust&layout=compact)](https://github.com/MohammadAliDaneshSefatDoust/github-readme-stats)
 
