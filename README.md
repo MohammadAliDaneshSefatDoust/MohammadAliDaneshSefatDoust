@@ -15,6 +15,4 @@ This is my Github page
 
 📧How to reach me: amdaneshsefatdoust@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAliDaneshSefatDoust&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliDaneshSefatDoust&layout=compact)](https://github.com/MohammadAliDaneshSefatDoust/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAliDaneshSefatDoust&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliDaneshSefatDoust&layout=compact)](https://github.com/MohammadAliDaneshSefatDoust/github-readme-stats)
